@@ -6,7 +6,7 @@
 效果图： 
 
 
-![image](https://github.com/cnlisn/TopRightMenu/blob/master/img/screenshot-1575528189483.jpg)
+![](https://github.com/cnlisn/TopRightMenu/blob/master/img/screenshot-1575528189483.jpg)
 
 
 # Install
