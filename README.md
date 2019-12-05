@@ -6,7 +6,7 @@
 效果图： 
 
 
-![]('img/screenshot-1575528189483.jpg')
+![image](img/screenshot-1575528189483.jpg)
 
 
 # Install
