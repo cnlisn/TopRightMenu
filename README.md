@@ -5,11 +5,8 @@
 
 效果图： 
 
-# Gif
 
-![image](img/screenshot-1575528189483.jpg)
-
-图片中看起来比较卡顿，但真机运行是正常的.
+![]('img/screenshot-1575528189483.jpg')
 
 
 # Install
